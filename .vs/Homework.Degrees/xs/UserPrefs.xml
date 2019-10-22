@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1635CBB2-196A-475A-BE73-57ED3F4DF2C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework.Degrees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework.Degrees/Program.cs">
+    <Files>
+      <File FileName="Homework.Degrees/Program.cs" Line="32" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework.Degrees" expanded="True">
+            <Node name="Homework.Degrees" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

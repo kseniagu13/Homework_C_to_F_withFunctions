@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/bin/Debug/netcoreapp2.1/Homework.Degrees.deps.json
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/bin/Debug/netcoreapp2.1/Homework.Degrees.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/bin/Debug/netcoreapp2.1/Homework.Degrees.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/bin/Debug/netcoreapp2.1/Homework.Degrees.dll
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/bin/Debug/netcoreapp2.1/Homework.Degrees.pdb
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/obj/Debug/netcoreapp2.1/Homework.Degrees.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/obj/Debug/netcoreapp2.1/Homework.Degrees.csproj.CoreCompileInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/obj/Debug/netcoreapp2.1/Homework.Degrees.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/obj/Debug/netcoreapp2.1/Homework.Degrees.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/obj/Debug/netcoreapp2.1/Homework.Degrees.dll
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Degrees/Homework.Degrees/obj/Debug/netcoreapp2.1/Homework.Degrees.pdb
